@@ -10,14 +10,15 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 - [x] This task is complete.
 ```
 - [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment:15
 
 ## Self-Reflection:
-<!-- What did you learn that you found interesting -->
+I learned and reviewed a lot about writting functions and using properties in Javascript. I did get stuck on a few tests and for the most part, was able to figure out the problems. I struggled a lot on test #4 and decided to leave it blank. Also forgot to commit changes until I was finished oops.
 
 ### How long it took you to finish this?
+A few hours
